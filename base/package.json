@@ -1,0 +1,31 @@
+{
+  "name": "shadcn-vue-nuxt-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./nuxt.config.ts",
+  "scripts": {
+    "shadcn:init": "npx shadcn-vue@latest init",
+    "shadcn:add": "npx shadcn-vue@latest add",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "lucide-vue-next": "^0.286.0",
+    "radix-vue": "^0.4.1",
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss-animate": "^1.0.7",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "nuxt": "3.7.4"
+  }
+}
