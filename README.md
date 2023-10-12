@@ -1,3 +1,5 @@
 # Minimal Shadcn-vue Nuxt layer in a monorepo
 
-see: https://github.com/radix-vue/shadcn-vue-nuxt-layer & https://github.com/radix-vue/shadcn-vue/issues/100
+See: https://github.com/radix-vue/shadcn-vue-nuxt-layer & https://github.com/radix-vue/shadcn-vue/issues/100
+
+Deployment test: https://shadcn-vue-nuxt-layer-monorepo-nuxtapp.vercel.app/
